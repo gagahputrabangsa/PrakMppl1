@@ -15,7 +15,7 @@ public class datasama {
                     }
             }
         }
-        JOptionPane.showMessageDialog(null, "Nilai array yang sama :\n"+(match));
+        JOptionPane.showMessageDialog(null, "Nilai array yang sama  :\n"+(match));
         }
  }
 
